@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kitras"
+  given-names: "Christopher"
+- family-names: "Pollan"
+  given-names: "Carter"
+- family-names: "Myers"
+  given-names: "Kyle"
+- family-names: "Wirthlin"
+  given-names: "Camille"
+- family-names: "Lundrigan"
+  given-names: "Philip"
+title: "LaMDA"
+version: 1.0.0
+date-released: 2023-03-15
+url: "https://github.com/NET-BYU/LaMDA"
